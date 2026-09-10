@@ -2,7 +2,7 @@
 
 A clickable mockup of a hedge-fund grade, **human-approved** systematic long/short trading desk running on Interactive Brokers.
 
-**Live demo:** https://ravikrali.github.io/Quant-Tader-Demo/ (GitHub Pages, enable in repo Settings → Pages → branch `main`, folder `/`)
+**Live demo:** https://ravikrali.github.io/Quant-Tader-Demo/ (GitHub Pages from branch `main`, folder `/`)
 
 > All data in this mockup is fictional. Nothing connects to a broker.
 
